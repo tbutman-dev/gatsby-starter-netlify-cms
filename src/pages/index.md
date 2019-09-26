@@ -1,16 +1,25 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
+title: Master of Science in Nursing
 image: /img/graduation.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+heading: Master of Science in Nursing
+subheading: Supporting social justice and health equality
 mainpitch:
-  title: Why Kaldi
-  description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+  title: Mission
+  description: >-
+    The San Francisco State University School of Nursing aims to motivate and
+    educate undergraduate and graduate nursing students to meet the healthcare
+    needs of individuals, families, and communities. Faculty has a passion for
+    teaching using a rich variety of educational methods. We embrace the
+    diversity of our student population, and are committed to educating nurses
+    who serve diverse populations with a focus on social and environmental
+    justice, and health equality. Furthermore, we incorporate evidence-based
+    nursing knowledge, ethical decision-making, and sound clinical judgment into
+    our educational paradigm. Using various educational modalities that include
+    state of the art information technologies, students learn how to provide
+    safe, quality patient-centered care. Our students are prepared to adapt to
+    changing healthcare needs and environments and to serve society through
+    civic engagement and lifelong learning.
 description: >-
   Kaldi is the ultimate spot for coffee lovers who want to learn about their
   java’s origin and support the farmers that grew it. We take coffee production,
