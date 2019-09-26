@@ -73,6 +73,11 @@ $black: #2b2523
 
 .navbar-item .icon
   color: $primary
+
+.navbar-item .logo
+  padding-top: 0;
+  padding-bottom: 0;
+
 // Override for use of svg's from https://simpleicons.org/
 .icon svg
   width: 1.5rem
@@ -80,6 +85,8 @@ $black: #2b2523
   fill: currentColor
 .navbar-brand .navbar-item.logo
   padding: 0 1rem
+  max-height: unset;
+
 footer.footer
   padding: 3rem 0rem 0rem
   background-color: transparent
@@ -138,3 +145,12 @@ $menu-label-color: $white-ter
     text-align: center;
     max-width: 70%;
     margin: 0 0 1em;
+
+.layout
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  justify-content: space-between;
+
+.fill-remaining-height
+  flex-grow: 1;
